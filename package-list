@@ -1,3 +1,4 @@
+com.okta.scim.server.capabilities
 com.okta.scim.server.example
 com.okta.scim.server.exception
 com.okta.scim.server.service
